@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pet-appointment-scheduler/static/css/main.8dc9c5e8.chunk.css",
+    "main.js": "/pet-appointment-scheduler/static/js/main.d39d12df.chunk.js",
+    "main.js.map": "/pet-appointment-scheduler/static/js/main.d39d12df.chunk.js.map",
+    "runtime-main.js": "/pet-appointment-scheduler/static/js/runtime-main.43b29a10.js",
+    "runtime-main.js.map": "/pet-appointment-scheduler/static/js/runtime-main.43b29a10.js.map",
+    "static/css/2.658248ec.chunk.css": "/pet-appointment-scheduler/static/css/2.658248ec.chunk.css",
+    "static/js/2.30b052b8.chunk.js": "/pet-appointment-scheduler/static/js/2.30b052b8.chunk.js",
+    "static/js/2.30b052b8.chunk.js.map": "/pet-appointment-scheduler/static/js/2.30b052b8.chunk.js.map",
+    "static/js/3.17152342.chunk.js": "/pet-appointment-scheduler/static/js/3.17152342.chunk.js",
+    "static/js/3.17152342.chunk.js.map": "/pet-appointment-scheduler/static/js/3.17152342.chunk.js.map",
+    "index.html": "/pet-appointment-scheduler/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/pet-appointment-scheduler/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.8dc9c5e8.chunk.css.map": "/pet-appointment-scheduler/static/css/main.8dc9c5e8.chunk.css.map",
+    "static/js/2.30b052b8.chunk.js.LICENSE.txt": "/pet-appointment-scheduler/static/js/2.30b052b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43b29a10.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.30b052b8.chunk.js",
+    "static/css/main.8dc9c5e8.chunk.css",
+    "static/js/main.d39d12df.chunk.js"
+  ]
+}
